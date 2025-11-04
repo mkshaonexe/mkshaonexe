@@ -1,3 +1,9 @@
+
+## 📅 GitHub Contribution Calendar
+
+[![Shaon's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mkshaonexe&theme=github-dark&hide_border=true)](https://github.com/mkshaonexe)
+
+
 # 💫 About Me:
 💡 Passionate about tech and science.<br>Sharing my side projects and experiments here on GitHub.
 
