@@ -4,9 +4,9 @@
 [![Shaon's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mkshaonexe&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/mkshaonexe)
 
 
-## 📅 GitHub Contribution Calendar
+### 🔥 My GitHub Contribution Streak
 
-[![Shaon's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mkshaonexe&theme=github-dark&hide_border=true)](https://github.com/mkshaonexe)
+[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=mkshaonexe&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 # 💫 About Me:
