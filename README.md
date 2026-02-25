@@ -1,61 +1,82 @@
+<img src="https://raw.githubusercontent.com/mkshaonexe/mkshaonexe/main/assets/banner.png" alt="MK Shaon Profile Banner" width="100%" />
+
+# Hi there! I'm MK Shaon 👋
+
+### Founder • Software Engineer • Creator
+
+I'm a 20-year-old tech founder and developer from Dhaka, Bangladesh. I design and build systems that solve real problems, prioritizing rapid execution, impactful design, and digital wellbeing. 
+
+Currently, I form 1/2 of **[A4U Solution](mailto:contact@mkshaon.com)**—a premium tech agency partnership delivering high-end software development, apps, and AI automation for businesses.
+
 <div align="center">
-    <h1>Hi there, I'm MK Shaon 👋</h1>
-    <p><b>Independent Developer • Digital Well-being Architect • Tech Enthusiast</b></p>
-    <p>Based in Bangladesh 🇧🇩 | Building with passion & purpose.</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=435&lines=Building+Social+Sentry;Combating+Digital+Addiction;Crafting+Tech+Solutions;Building+In+Public" alt="Typing SVG" />
 </div>
+
+<p align="center">
+  <a href="https://youtube.com/@mkshaon7"><img src="https://img.shields.io/badge/YouTube-28.4K%20Subs-%23FF0000.svg?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube"></a>
+  <a href="https://facebook.com/mkshaon777"><img src="https://img.shields.io/badge/Facebook-50K%20Followers-%231877F2.svg?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook"></a>
+  <a href="https://mkshaon.com"><img src="https://img.shields.io/badge/Website-mkshaon.com-%2310B981.svg?logo=safari&logoColor=white&style=for-the-badge" alt="Website"></a>
+</p>
 
 ---
 
-### 🚀 **Current Focus: Social Sentry PC**
-I am the creator of **[Social Sentry PC](https://github.com/mkshaonexe/Social-Sentry-PC-)**, a powerful native Windows application designed to help users reclaim their attention and master their digital lives.
-*   **Mission**: Combating doom-scrolling and digital burnout.
-*   **Tech**: C#, .NET WPF, Supabase, Local AI/ML.
-*   **Impact**: Privacy-first, offline-capable productivity monitoring.
+## 🚀 Current Focus & Flagship Product
 
-<div align="center">
-    <a href="https://github.com/mkshaonexe/Social-Sentry-PC-">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mkshaonexe&repo=Social-Sentry-PC-&theme=react&border_radius=10" alt="Social Sentry PC" />
-    </a>
-</div>
+My core mission right now is building **Social Sentry** — a comprehensive digital wellbeing ecosystem designed to combat extreme phone addiction. Built mainly for Android, iOS, and Web via AI-assisted engineering.
+
+- **Active Users:** ~1.5K Daily Active Users / 22K+ Total Downloads
+- **Key Features:** Strict Reels/Shorts blocking, porn blocking, scroll limits, 11-Tier Rank tracking.
+- **Goal:** To help you reclaim your focus and beat the dopamine crash cycle.
 
 ---
 
-### 🛠️ **Tech Stack**
-<div align="center">
-    <img src="https://img.shields.io/badge/Language-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/Framework-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-    <img src="https://img.shields.io/badge/Database-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-    <img src="https://img.shields.io/badge/DB-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
-</div>
+## 💻 Tech Stack & Tools
+
+With an extensive portfolio spanning 57+ repositories, my expertise revolves around rapidly delivering ideas to production across Android, Web, and Cloud.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 
 ---
 
-### 📊 **GitHub Analytics**
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mkshaonexe&show_icons=true&theme=react&hide_border=true&count_private=true" height="180" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkshaonexe&layout=compact&theme=react&hide_border=true" height="180" alt="languages graph" />
-    <br/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mkshaonexe&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
-</div>
+## 📈 Exploring Projects
+
+Outside of Social Sentry, I enjoy prototyping ideas and experimenting over weekends:
+
+* 📱 **Android Apps (Kotlin/Compose):** Built *MyTube/NouTube* (Ad-free multi-platform apps), *Dayline*, *MindFul Book*, and more.
+* 🌐 **Browser Extensions:** Authored *No-Shorts-No-Distraction* logic handling DOM-based blocking strategies on YouTube, Facebook, and Instagram.
+* 🤖 **AI & Automation:** Heavy use of modern LLMs for intelligent workflow acceleration and creating robust AI agents.
 
 ---
 
-### 🌐 **Connect & Explore**
-<div align="center">
-    <a href="https://facebook.com/mkshaon777">
-        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
-    </a>
-    <a href="https://instagram.com/mkshaon7">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-    </a>
-    <a href="https://youtube.com/@mkshaon7">
-        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
-    </a>
-</div>
+## 📊 GitHub Contributions
 
-<br/>
-<div align="center">
-    <img src="https://visitcount.itsvg.in/api?id=mkshaonexe&icon=0&color=1" alt="Visitor Count" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mkshaonexe&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=10B981&title_color=10B981&text_color=c9d1d9" alt="MK Shaon's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkshaonexe&theme=radical&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakNum=c9d1d9" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📬 Get in Touch
+
+I'm always open to discussing new opportunities, SaaS partnerships, tech sponsorships, and freelance development with **A4U Solution**.
+
+- **Email:** contact@mkshaon.com
+- **Website:** [mkshaon.com](https://mkshaon.com)
+- **Watch me build:** [YouTube @mkshaon7](https://youtube.com/@mkshaon7)
+
+<p align="center"><i>"The biggest risk is not taking any risk."</i></p>
