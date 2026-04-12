@@ -1,82 +1,66 @@
-<img src="https://raw.githubusercontent.com/mkshaonexe/mkshaonexe/main/assets/banner.png" alt="MK Shaon Profile Banner" width="100%" />
-
-# Hi there! I'm MK Shaon 👋
-
-### Founder • Software Engineer • Creator
-
-I'm a 20-year-old tech founder and developer from Dhaka, Bangladesh. I design and build systems that solve real problems, prioritizing rapid execution, impactful design, and digital wellbeing. 
-
-Currently, I form 1/2 of **[A4U Solution](mailto:contact@mkshaon.com)**—a premium tech agency partnership delivering high-end software development, apps, and AI automation for businesses.
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=435&lines=Building+Social+Sentry;Combating+Digital+Addiction;Crafting+Tech+Solutions;Building+In+Public" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MK%20Shaon&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Founder%20%E2%80%A2%20Android%20Engineer%20%E2%80%A2%20Builder&descAlignY=55&descSize=16" />
 </div>
 
 <p align="center">
-  <a href="https://youtube.com/@mkshaon7"><img src="https://img.shields.io/badge/YouTube-28.4K%20Subs-%23FF0000.svg?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube"></a>
-  <a href="https://facebook.com/mkshaon777"><img src="https://img.shields.io/badge/Facebook-50K%20Followers-%231877F2.svg?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook"></a>
-  <a href="https://mkshaon.com"><img src="https://img.shields.io/badge/Website-mkshaon.com-%2310B981.svg?logo=safari&logoColor=white&style=for-the-badge" alt="Website"></a>
+  <a href="https://youtube.com/@mkshaon7"><img src="https://img.shields.io/badge/YouTube-28.4K%20Subs-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://facebook.com/mkshaon"><img src="https://img.shields.io/badge/Facebook-50K%20Followers-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://mkshaon.com"><img src="https://img.shields.io/badge/Website-mkshaon.com-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🚀 Current Focus & Flagship Product
+### 👋 Hey, I'm Shaon
 
-My core mission right now is building **Social Sentry** — a comprehensive digital wellbeing ecosystem designed to combat extreme phone addiction. Built mainly for Android, iOS, and Web via AI-assisted engineering.
+I'm a **20-year-old indie developer and content creator** from Dhaka, Bangladesh.  
+I build Android apps, ship fast, and document everything publicly.
 
-- **Active Users:** ~1.5K Daily Active Users / 22K+ Total Downloads
-- **Key Features:** Strict Reels/Shorts blocking, porn blocking, scroll limits, 11-Tier Rank tracking.
-- **Goal:** To help you reclaim your focus and beat the dopamine crash cycle.
-
----
-
-## 💻 Tech Stack & Tools
-
-With an extensive portfolio spanning 57+ repositories, my expertise revolves around rapidly delivering ideas to production across Android, Web, and Cloud.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
+My focus: **real tools for real problems** — no fluff, no bloat.
 
 ---
 
-## 📈 Exploring Projects
+### 🚀 Flagship Product — Social Sentry
 
-Outside of Social Sentry, I enjoy prototyping ideas and experimenting over weekends:
+> A digital wellbeing app built to help students beat phone addiction.
 
-* 📱 **Android Apps (Kotlin/Compose):** Built *MyTube/NouTube* (Ad-free multi-platform apps), *Dayline*, *MindFul Book*, and more.
-* 🌐 **Browser Extensions:** Authored *No-Shorts-No-Distraction* logic handling DOM-based blocking strategies on YouTube, Facebook, and Instagram.
-* 🤖 **AI & Automation:** Heavy use of modern LLMs for intelligent workflow acceleration and creating robust AI agents.
+| Metric | Value |
+|--------|-------|
+| 📱 Daily Active Users | ~2,500 |
+| 📥 Total Downloads | 42,000+ |
+| ⭐ Core Features | Reels/Shorts blocking, Porn blocker, Scroll limits, 11-Tier Rank System |
 
----
-
-## 📊 GitHub Contributions
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mkshaonexe&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=10B981&title_color=10B981&text_color=c9d1d9" alt="MK Shaon's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkshaonexe&theme=radical&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakNum=c9d1d9" alt="GitHub Streak" />
-</p>
+Built entirely with **AI-assisted engineering** (Kotlin + Jetpack Compose + Supabase + Firebase).
 
 ---
 
-## 📬 Get in Touch
+### 🛠️ Tech Stack
 
-I'm always open to discussing new opportunities, SaaS partnerships, tech sponsorships, and freelance development with **A4U Solution**.
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-- **Email:** contact@mkshaon.com
-- **Website:** [mkshaon.com](https://mkshaon.com)
-- **Watch me build:** [YouTube @mkshaon7](https://youtube.com/@mkshaon7)
+---
 
-<p align="center"><i>"The biggest risk is not taking any risk."</i></p>
+### 📦 Other Projects
+
+- **MyTube / NouTube** — Ad-free multi-platform YouTube client (Kotlin)
+- **No-Shorts Extension** — DOM-based distraction blocker for YouTube, Facebook, Instagram
+- **PVC** — Pomodoro productivity app
+- **Dayline** — Daily planner app
+
+---
+
+### 📬 Let's Talk
+
+Open to: **freelance dev work**, **app sponsorships**, **SaaS collabs**, **content partnerships**
+
+- 📧 mkshaon2024@gmail.com
+- 🌐 [mkshaon.com](https://mkshaon.com)
+- 📺 [Watch me build on YouTube](https://youtube.com/@mkshaon7)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>
