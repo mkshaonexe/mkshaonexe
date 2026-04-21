@@ -53,6 +53,16 @@ Built entirely with **AI-assisted engineering** (Kotlin + Jetpack Compose + Supa
 
 ---
 
+### 📊 GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mkshaonexe&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=10B981&title_color=10B981&text_color=c9d1d9" alt="MK Shaon's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkshaonexe&theme=radical&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakNum=c9d1d9" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 📬 Let's Talk
 
 Open to: **freelance dev work**, **app sponsorships**, **SaaS collabs**, **content partnerships**
