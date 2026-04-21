@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MK%20Shaon&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Founder%20%E2%80%A2%20Android%20Engineer%20%E2%80%A2%20Builder&descAlignY=55&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MK%20Shaon&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Founder%20%E2%80%A2%20Android%20Developer%20%E2%80%A2%20AI%20Android%20Developer%20%E2%80%A2%20AI%20Expert&descAlignY=55&descSize=16" />
 </div>
 
 <p align="center">
-  <a href="https://youtube.com/@mkshaon7"><img src="https://img.shields.io/badge/YouTube-28.4K%20Subs-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://facebook.com/mkshaon"><img src="https://img.shields.io/badge/Facebook-50K%20Followers-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://mkshaon.com"><img src="https://img.shields.io/badge/Website-mkshaon.com-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://youtube.com/@mkshaon7"><img src="https://img.shields.io/badge/YouTube-30K%20Followers-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://facebook.com/mkshaon"><img src="https://img.shields.io/badge/Facebook-56K%20Followers-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://mkshaon.com"><img src="https://img.shields.io/badge/Website-MK%20Shaon-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 👋 Hey, I'm Shaon
 
-I'm a **20-year-old indie developer and content creator** from Dhaka, Bangladesh.  
+I'm a **19-year-old individual developer and AI expert**.  
 I build Android apps, ship fast, and document everything publicly.
 
 My focus: **real tools for real problems** — no fluff, no bloat.
@@ -25,9 +25,9 @@ My focus: **real tools for real problems** — no fluff, no bloat.
 
 | Metric | Value |
 |--------|-------|
-| 📱 Daily Active Users | ~2,500 |
-| 📥 Total Downloads | 42,000+ |
-| ⭐ Core Features | Reels/Shorts blocking, Porn blocker, Scroll limits, 11-Tier Rank System |
+| 📱 Monthly Active Users | 25,000 |
+| 📥 Total Downloads | 45,000 |
+| ⭐ Core Features | Reels, Short Blockings, Porn Blockings, Scrolling Limit, 11-Tier Rank System |
 
 Built entirely with **AI-assisted engineering** (Kotlin + Jetpack Compose + Supabase + Firebase).
 
@@ -46,10 +46,10 @@ Built entirely with **AI-assisted engineering** (Kotlin + Jetpack Compose + Supa
 
 ### 📦 Other Projects
 
-- **MyTube / NouTube** — Ad-free multi-platform YouTube client (Kotlin)
+- **MyTube** — Ad-free multi-platform YouTube client (Kotlin)
 - **No-Shorts Extension** — DOM-based distraction blocker for YouTube, Facebook, Instagram
-- **PVC** — Pomodoro productivity app
-- **Dayline** — Daily planner app
+- **PVC** — Preference Study App
+- **Dayline** — To-Do List and Productivity Improvement
 
 ---
 
