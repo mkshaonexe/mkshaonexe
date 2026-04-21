@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://youtube.com/@mkshaon7"><img src="https://img.shields.io/badge/YouTube-30K%20Followers-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://facebook.com/mkshaon"><img src="https://img.shields.io/badge/Facebook-56K%20Followers-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.facebook.com/mkshaon777/"><img src="https://img.shields.io/badge/Facebook-56K%20Followers-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://mkshaon.com"><img src="https://img.shields.io/badge/Website-MK%20Shaon-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
